@@ -1,7 +1,7 @@
 # Spotify-Downloader
 
 
-# Spotify-to-YouTube Downloader
+
 
 This Python script allows you to download the audio of a song from Spotify by providing its Spotify link. It utilizes the Spotipy and Pytube libraries to interact with the Spotify API and download the audio from YouTube.
 
